@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:"/jlpt-grammar-site/_next/static/chunks/1v24rz5nqi7jb.js"
+3:I[6480,["$2"],"default"]
+4:I[61163,["$2"],"default"]
+d:"/jlpt-grammar-site/_next/static/chunks/368lz0imr1rjs.js"
+e:"/jlpt-grammar-site/_next/static/chunks/0av3vby8vt26k.js"
+f:I[43971,["$2","$d","$e"],"default"]
+10:I[51299,["$2"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[51299,["$2"],"$14"]
+16:"MetadataBoundary"
+17:I[51299,["$2"],"$16"]
+:HL["/jlpt-grammar-site/_next/static/chunks/0azvc3vwcn44s.css","style"]
+6:X
+9:X
+9:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Lf",null,{"card":{"id":"made","title":"まで／までに","reading":"まで／までに","relatedTags":["持续到……","在……之前完成","连……都……"],"exams":{"N1":{"level":"S","section":"文法篇","years":["201612","201812","202012","202112","202307","202407"],"questionTypes":["句子理解*2","错误选项*4","排序题"],"sourcePages":[]}},"connection":"时间／场所名词 + まで；截止点 + までに；名词／普通形 + まで（も）。","meanings":[{"id":"made-1","label":"持续到……","usage":"表示动作或状态持续的终点，该动作通常一直延续到前项所示时间或地点。","connection":"时间／场所名词 + まで。","explanation":"表示动作或状态持续的终点，该动作通常一直延续到前项所示时间或地点。","sentence":"今日は五時まで働きます。","kana":"きょうはごじまではたらきます。","translation":"今天工作到五点。","quizExample":{"sentence":"駅まで歩きました。","kana":"えきまであるきました。","translation":"一直走到了车站。","target":"駅まで"}},{"id":"made-2","label":"在……之前完成","usage":"表示动作完成的截止期限；动作可在截止点之前的任何时间完成。","connection":"截止时间 + までに。","explanation":"表示动作完成的截止期限；动作可在截止点之前的任何时间完成。","sentence":"金曜日までにレポートを出してください。","kana":"きんようびまでにレポートをだしてください。","translation":"请在星期五之前提交报告。","quizExample":{"sentence":"九時までに来てください。","kana":"くじまでにきてください。","translation":"请在九点之前来。","target":"九時までに"}},{"id":"made-3","label":"连……都……","usage":"举出超出一般预想的极端对象，强调范围扩展到该对象。","connection":"名词／普通形 + まで（も）。","explanation":"举出超出一般预想的极端对象，强调范围扩展到该对象。","sentence":"その話は子供まで知っている。","kana":"そのはなしはこどもまでしっている。","translation":"那件事连孩子都知道。","quizExample":{"sentence":"親友にまで反対された。","kana":"しんゆうにまではんたいされた。","translation":"甚至连好友都反对我。","target":"親友にまで"}}],"note":"持续终点用「まで」；必须在某时点前完成则用「までに」。"}}],[["$","script","script-0",{"src":"/jlpt-grammar-site/_next/static/chunks/368lz0imr1rjs.js","async":true}],["$","script","script-1",{"src":"/jlpt-grammar-site/_next/static/chunks/0av3vby8vt26k.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$6"}}]]
+a:[["children",{"s":{"n":"id","t":"d","k":"made","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@b","v":"$9","s":"$6"},"c":"$Qc"}]]
+7:[["children",{"s":"grammar","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/jlpt-grammar-site/_next/static/chunks/0azvc3vwcn44s.css","precedence":"next"}],["$","script","script-0",{"src":"/jlpt-grammar-site/_next/static/chunks/1v24rz5nqi7jb.js","async":true}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"JLPT N1 语法卡片"}],["$","meta","1",{"name":"description","content":"按真题频率学习 JLPT N1 高频语法"}]]}]}],null]}],null]}],"p":"$@18","v":null,"s":"$6"}},"a":"$@19","u":"$@1a","b":"DBn3_NKiPlRtinR-C0Tks"}
+12:null
+6:300
+1a:true
+6:C
+19:0
+b:"$undefined"
+8:"$undefined"
+5:"$undefined"
+18:"$undefined"
+13:"$undefined"

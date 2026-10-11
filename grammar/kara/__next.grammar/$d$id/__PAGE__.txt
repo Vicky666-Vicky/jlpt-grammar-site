@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:"/jlpt-grammar-site/_next/static/chunks/1v24rz5nqi7jb.js"
+3:I[6480,["$2"],"default"]
+4:I[61163,["$2"],"default"]
+d:"/jlpt-grammar-site/_next/static/chunks/368lz0imr1rjs.js"
+e:"/jlpt-grammar-site/_next/static/chunks/0av3vby8vt26k.js"
+f:I[43971,["$2","$d","$e"],"default"]
+12:"ViewportBoundary"
+13:I[51299,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[51299,["$2"],"$14"]
+16:"$Sreact.suspense"
+:HL["/jlpt-grammar-site/_next/static/chunks/0azvc3vwcn44s.css","style"]
+6:X
+9:X
+9:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Lf",null,{"card":{"id":"kara","title":"から","reading":"〜から","relatedTags":["起点","来源","原因","之后"],"exams":{"N1":{"level":"S","section":"文法篇","years":["201507","201512","201607","201612","201706","201807","201812","201907","202012","202107","202412"],"questionTypes":["句子理解*10","错误选项*8","正确选项*2"],"sourcePages":[]}},"connection":"名词 + から；普通形 + から；动词て形 + から。根据句子可表示空间、时间、来源、原因或动作先后。","meanings":[{"id":"place-origin","label":"空间、场所的起点","usage":"表示移动或范围开始的地点。","connection":"场所名词 + から。","explanation":"「学校から」指出回家这一移动的出发点。","sentence":"学校から家まで歩いて帰った。","kana":"がっこうからいえまであるいてかえった。","translation":"从学校步行回家了。","quizExample":{"sentence":"駅から会社まで十分です。","kana":"えきからかいしゃまでじゅっぷんです。","translation":"从车站到公司要十分钟。","target":"駅から"}},{"id":"time-origin","label":"时间的起点","usage":"表示动作、状态或期间开始的时间。","connection":"时间名词 + から。","explanation":"「九時から」指出会议开始的时间。","sentence":"会議は九時から始まる。","kana":"かいぎはくじからはじまる。","translation":"会议从九点开始。","quizExample":{"sentence":"授業は午後からです。","kana":"じゅぎょうはごごからです。","translation":"课从下午开始。","target":"午後から"}},{"id":"passage-point","label":"动作经过或通过的地点","usage":"表示动作通过、进入或离开的通道、位置。","connection":"场所名词 + から。","explanation":"「窓から」表示风进入房间所经过的位置。","sentence":"窓から冷たい風が入ってきた。","kana":"まどからつめたいかぜがはいってきた。","translation":"冷风从窗户吹了进来。","quizExample":{"sentence":"猫がドアから入ってきた。","kana":"ねこがドアからはいってきた。","translation":"猫从门进来了。","target":"ドアから"}},{"id":"source","label":"动作、物品或信息的来源","usage":"表示给予者、发送者、信息来源或动作的发出方。","connection":"人物 / 组织名词 + から。","explanation":"「先生から」表示书的给予者是老师。","sentence":"先生から本をもらった。","kana":"せんせいからほんをもらった。","translation":"从老师那里得到了一本书。","quizExample":{"sentence":"友達からメールが来た。","kana":"ともだちからメールがきた。","translation":"朋友发来了邮件。","target":"友達から"}},{"id":"reason","label":"因为……","usage":"表示说话人判断、请求或结果的原因、理由。","connection":"普通形 + から。名词和な形容词常用「だから」。","explanation":"前项“下雨”是后项“不去”的理由。","sentence":"雨が降っているから、今日は出かけない。","kana":"あめがふっているから、きょうはでかけない。","translation":"因为正在下雨，今天不出门。","quizExample":{"sentence":"忙しいから、あとで電話します。","kana":"いそがしいから、あとででんわします。","translation":"因为忙，之后再打电话。","target":"忙しいから"}},{"id":"after-doing","label":"……之后","usage":"表示完成前项动作后，再进行后项动作。","connection":"动词て形 + から。","explanation":"先吃饭，然后再吃药，动作有明确先后。","sentence":"ご飯を食べてから、薬を飲んだ。","kana":"ごはんをたべてから、くすりをのんだ。","translation":"吃完饭后吃了药。","quizExample":{"sentence":"宿題をしてから寝ます。","kana":"しゅくだいをしてからねます。","translation":"做完作业后睡觉。","target":"してから"}}],"note":"重点根据前后名词和句子关系判断起点、来源、原因与动作先后。"}}],[["$","script","script-0",{"src":"/jlpt-grammar-site/_next/static/chunks/368lz0imr1rjs.js","async":true}],["$","script","script-1",{"src":"/jlpt-grammar-site/_next/static/chunks/0av3vby8vt26k.js","async":true}]],"$L10"]}],"p":"$@11","v":null,"s":"$6"}}]]
+a:[["children",{"s":{"n":"id","t":"d","k":"kara","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@b","v":"$9","s":"$6"},"c":"$Qc"}]]
+7:[["children",{"s":"grammar","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/jlpt-grammar-site/_next/static/chunks/0azvc3vwcn44s.css","precedence":"next"}],["$","script","script-0",{"src":"/jlpt-grammar-site/_next/static/chunks/1v24rz5nqi7jb.js","async":true}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"JLPT N1 语法卡片"}],["$","meta","1",{"name":"description","content":"按真题频率学习 JLPT N1 高频语法"}]]}]}],null]}],null]}],"p":"$@17","v":null,"s":"$6"}},"a":"$@18","u":"$@19","b":"DBn3_NKiPlRtinR-C0Tks"}
+1a:I[51299,["$2"],"OutletBoundary"]
+10:["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+6:300
+1b:null
+19:true
+6:C
+18:0
+b:"$undefined"
+8:"$undefined"
+5:"$undefined"
+17:"$undefined"
+11:"$undefined"

@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:"/jlpt-grammar-site/_next/static/chunks/1v24rz5nqi7jb.js"
+3:I[6480,["$2"],"default"]
+4:I[61163,["$2"],"default"]
+d:"/jlpt-grammar-site/_next/static/chunks/368lz0imr1rjs.js"
+e:"/jlpt-grammar-site/_next/static/chunks/0av3vby8vt26k.js"
+f:I[43971,["$2","$d","$e"],"default"]
+10:I[51299,["$2"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[51299,["$2"],"$14"]
+16:"MetadataBoundary"
+17:I[51299,["$2"],"$16"]
+:HL["/jlpt-grammar-site/_next/static/chunks/0azvc3vwcn44s.css","style"]
+6:X
+9:X
+9:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$Lf",null,{"card":{"id":"kake","title":"～かけ／～かける","reading":"～かけ／～かける","relatedTags":["做到一半、尚未完成","险些……、正要……"],"exams":{"N1":{"level":"A","section":"文法篇","years":["201706","201807","201812"],"questionTypes":["错误选项*2","句子理解"],"sourcePages":[]}},"connection":"动词ます形去掉「ます」+ かける／かけだ；修饰名词时用「～かけの + 名词」。","meanings":[{"id":"kake-1","label":"做到一半、尚未完成","usage":"表示某个动作已经开始，但在完成之前中断，仍处于未完成状态。","connection":"动词ます形去掉「ます」+ かける／かけだ／かけの名词。","explanation":"表示某个动作已经开始，但在完成之前中断，仍处于未完成状态。","sentence":"昨日読みかけの本を、今日読み終えた。","kana":"きのうよみかけのほんを、きょうよみおえた。","translation":"昨天读到一半的书，今天读完了。","quizExample":{"sentence":"飲みかけのコーヒーが机に置いてある。","kana":"のみかけのコーヒーがつくえにおいてある。","translation":"桌上放着喝了一半的咖啡。","target":"飲みかけのコーヒー"}},{"id":"kake-2","label":"险些……、正要……","usage":"与瞬间变化或短暂动作搭配，表示某事即将发生但最终没有完全发生。","connection":"动词ます形去掉「ます」+ かける／かけた。","explanation":"与瞬间变化或短暂动作搭配，表示某事即将发生但最终没有完全发生。","sentence":"階段で転びかけたが、手すりにつかまった。","kana":"かいだんでころびかけたが、てすりにつかまった。","translation":"在楼梯上差点摔倒，不过抓住了扶手。","quizExample":{"sentence":"名前を忘れかけたが、すぐに思い出した。","kana":"なまえをわすれかけたが、すぐにおもいだした。","translation":"差点忘了名字，不过马上想起来了。","target":"忘れかけた"}}],"note":"不仅表示“完成一半”，还可表示动作或变化已经接近发生；具体含义由动词性质和语境决定。"}}],[["$","script","script-0",{"src":"/jlpt-grammar-site/_next/static/chunks/368lz0imr1rjs.js","async":true}],["$","script","script-1",{"src":"/jlpt-grammar-site/_next/static/chunks/0av3vby8vt26k.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$6"}}]]
+a:[["children",{"s":{"n":"id","t":"d","k":"kake","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@b","v":"$9","s":"$6"},"c":"$Qc"}]]
+7:[["children",{"s":"grammar","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/jlpt-grammar-site/_next/static/chunks/0azvc3vwcn44s.css","precedence":"next"}],["$","script","script-0",{"src":"/jlpt-grammar-site/_next/static/chunks/1v24rz5nqi7jb.js","async":true}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"JLPT N1 语法卡片"}],["$","meta","1",{"name":"description","content":"按真题频率学习 JLPT N1 高频语法"}]]}]}],null]}],null]}],"p":"$@18","v":null,"s":"$6"}},"a":"$@19","u":"$@1a","b":"DBn3_NKiPlRtinR-C0Tks"}
+12:null
+6:300
+1a:true
+6:C
+19:0
+b:"$undefined"
+8:"$undefined"
+5:"$undefined"
+18:"$undefined"
+13:"$undefined"
