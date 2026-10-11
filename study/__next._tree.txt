@@ -1,4 +1,4 @@
 :HL["/jlpt-grammar-site/_next/static/chunks/0azvc3vwcn44s.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"study","h":96,"c":"$Q2"}]]
-0:{"b":"nB6BZj2vaicp3NdZ3oHGO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"CQq-2i31uKgoNSXTQjx6I","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
